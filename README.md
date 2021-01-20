@@ -3,13 +3,13 @@ Este es el kata del Bowling mejorado
 
 ## Objetivo
 
-El objetivo de este kata es el de diseñar un código que pueda calcular la puntuación final de una partida de bolos dada su tarjeta de puntuación.
+El objetivo de este kata es el de diseñar un código que pueda calcular la puntuación final de una partida de bolos dada su tarjeta de puntuación. Es un kata hecho con fines educativos durante el FP de DAW.
 
 
 ## Instrucciones:
 Las instrucciones que nos daban eran las siguientes.
 
-#Lógica del negocio o reglas del juego
+### Lógica del negocio o reglas del juego
 
 Create a program, which, given a valid sequence of rolls for one line of American Ten-Pin Bowling,
 produces the total score for the game. This is a summary of the rules of the game:
@@ -29,8 +29,11 @@ throws knock down all the pins, the process does not repeat: the bonus throws ar
 calculate the score of the final frame.
 - The game score is the total of all frame scores.
 
-#Requisitos funcionales: qué NO hace el programa
+### Requisitos funcionales: qué NO hace el programa
 Here are some things that the program will not do:
 - We will not check for valid rolls.
 - We will not check for correct number of rolls and frames.
 - We will not provide scores for intermediate frames.
+
+## Agradecimientos
+He conseguido hacer este kata gracias a la colaboración entre todos los compañeros y a la gran ayuda de Víctor.
