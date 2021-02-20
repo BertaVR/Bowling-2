@@ -11,7 +11,7 @@ Este kata es uno de los primeros kata que hice para aprender programación orien
 - ✔️Solo consistía en escribir un programa que fuera capaz de calcular correctamente la **puntuación final** de la partida al acabar.
 
 ## Experiencia
-Este kata es el segundo intento del kata de bowling (está en mi repositorio Bowling). Intenté implementar la misma lógica a partir de un modelo DDD e intentando llevar un mejor control de los contadores (tarea en la que [VictorPorlan](https://github.com/VictorPorlan/) me ayudó mucho) y estructurando mejor el código.  Finalmente conseguí que el programa pasara los casos test.
+Este kata es el segundo intento del kata de bowling (está en mi repositorio [Bowling_kata](https://github.com/BertaVR/Bowling-kata)). Intenté implementar la misma lógica a partir de un modelo DDD e intentando llevar un mejor control de los contadores (tarea en la que [VictorPorlan](https://github.com/VictorPorlan/) me ayudó mucho) y estructurando mejor el código.  Finalmente conseguí que el programa pasara los casos test.
 
 ## Reglas del negocio
 
